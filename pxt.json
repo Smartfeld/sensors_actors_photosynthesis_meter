@@ -1,5 +1,5 @@
 {
-    "name": "oma-installation-photosynthese-2",
+    "name": "sensors_actors_photosynthesis_meter",
     "description": "",
     "dependencies": {
         "core": "*",
