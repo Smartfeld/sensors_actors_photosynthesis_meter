@@ -1,0 +1,27 @@
+{
+    "name": "oma-installation-photosynthese-2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-2ch-rf-switch-pig": "github:reifab/pxt-2ch-rf-switch-pig#v0.0.1",
+        "SCD30": "github:fm85/pxt-SCD30#f1c135e2c8328f4210eed8bb8828b69537bb14fb"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
